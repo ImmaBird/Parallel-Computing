@@ -1,0 +1,10 @@
+rank:2, send:3, recv:1
+rank:1, send:2, recv:0
+rank:4, send:0, recv:3
+rank:3, send:4, recv:2
+rank:0, send:1, recv:4
+Rank: 1, Elapsed Time: 2.606234
+Rank: 2, Elapsed Time: 3.551152
+Rank: 3, Elapsed Time: 4.928514
+Rank: 4, Elapsed Time: 5.597319
+Rank: 0, GB/Sec: 0.907724

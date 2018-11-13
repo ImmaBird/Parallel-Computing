@@ -1,0 +1,13 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=12
+#PBS -l walltime=00:05:00
+#PBS -q batch
+#PBS -N mvp-student-parallel
+#PBS -j oe
+
+cd /home/rawsonb/LA2
+for i in `seq 1 20`; do
+	export OMP_NUM_THREADS=$i
+	./mvp-student.cx 20000
+done
+

@@ -1,0 +1,13 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=12
+#PBS -l walltime=00:10:00
+#PBS -q batch
+#PBS -N LE1
+#PBS -j oe
+
+cd /home/rawsonb/LE1
+
+for i in `seq 1 20`; do
+	export OMP_NUM_THREADS=$i
+	./heatFTCS.cx
+done

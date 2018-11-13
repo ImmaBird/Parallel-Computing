@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "array": "c",
+        "deque": "c",
+        "list": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "initializer_list": "c",
+        "valarray": "c",
+        "*.tcc": "c",
+        "system_error": "c"
+    }
+}

@@ -1,0 +1,9 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=12
+#PBS -l walltime=00:10:0
+#PBS -q batch
+#PBS -N mandelbrot
+#PBS -j oe
+
+cd /home/rawsonb/LA3
+./mandelbrot.cx 30000 10000

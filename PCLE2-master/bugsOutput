@@ -1,0 +1,35 @@
+bug1:
+Task 0 starting...
+Task 1 starting...
+Sent to task 1...
+Received from task 1...
+Task 0: Received 1 char(s) from rank 1 with tag 0 
+Received from task 0...
+Sent to task 0...
+Task 1: Received 1 char(s) from rank 0 with tag 0 
+bug2:
+Task 0 sent = 0
+Task 0 sent = 10
+Task 0 sent = 20
+Task 0 sent = 30
+Task 0 sent = 40
+Task 0 sent = 50
+Task 0 sent = 60
+Task 0 sent = 70
+Task 0 sent = 80
+Task 0 sent = 90
+Task 1 received = 0.000000
+Task 1 received = 10.000000
+Task 1 received = 20.000000
+Task 1 received = 30.000000
+Task 1 received = 40.000000
+Task 1 received = 50.000000
+Task 1 received = 60.000000
+Task 1 received = 70.000000
+Task 1 received = 80.000000
+Task 1 received = 90.000000
+bug3:
+Task 0 on torbjorn starting...
+Root: Number of MPI tasks is: 2
+Task 1 on mercy starting...
+Rank: 1, Buffer: 23Rank: 0, Buffer: 23

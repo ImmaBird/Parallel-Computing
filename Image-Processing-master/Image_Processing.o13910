@@ -1,0 +1,304 @@
+kernel_size_21
+blur
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+1,57.3481
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+2,29.6742
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+3,24.8758
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+4,17.8836
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+5,12.2760
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+6,13.4553
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+7,13.7947
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+8,11.5040
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+9,11.6615
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+10,11.1426
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+11,10.2096
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+12,9.3714
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+13,9.7880
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+14,9.7599
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+15,9.5372
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+16,9.8731
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+17,9.8712
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+18,9.5307
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+19,9.6279
+Height: 3000
+Width : 4000
+Bluring image...
+Number of Threads, Execution Time (seconds)
+20,9.4818
+sharpen
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+1,57.4242
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+2,29.7024
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+3,20.4833
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+4,15.3454
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+5,12.2781
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+6,10.2319
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+7,13.6068
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+8,13.7988
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+9,11.7228
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+10,9.9419
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+11,10.2083
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+12,9.3859
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+13,10.1743
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+14,9.8995
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+15,9.5303
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+16,9.6510
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+17,9.5919
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+18,9.4952
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+19,9.4741
+Height: 3000
+Width : 4000
+Sharpening image...
+Number of Threads, Execution Time (seconds)
+20,9.6913
+shift_up
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+1,57.3592
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+2,29.6988
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+3,20.4554
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+4,17.0242
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+5,20.2311
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+6,10.2312
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+7,12.3076
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+8,12.0798
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+9,11.3567
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+10,11.2011
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+11,10.2132
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+12,9.3768
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+13,9.7084
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+14,9.6745
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+15,9.6499
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+16,9.7119
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+17,9.6873
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+18,9.5523
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+19,9.7094
+Height: 3000
+Width : 4000
+Shifting image...
+Number of Threads, Execution Time (seconds)
+20,9.6889

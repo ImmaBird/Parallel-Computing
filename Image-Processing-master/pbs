@@ -1,0 +1,26 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=12
+#PBS -l walltime=10:00:0
+#PBS -q batch
+#PBS -N Image_Processing
+#PBS -j oe
+
+cd /home/rawsonb/LA3
+echo kernel_size_21
+echo blur
+for i in `seq 1 20`; do
+	export OMP_NUM_THREADS=$i
+	./test.cx blur 21
+done
+
+echo sharpen
+for i in `seq 1 20`; do
+	export OMP_NUM_THREADS=$i
+	./test.cx sharpen 21
+done
+
+echo shift_up
+for i in `seq 1 20`; do
+	export OMP_NUM_THREADS=$i
+	./test.cx shift_up 21
+done

@@ -1,0 +1,17 @@
+#!/bin/bash
+#PBS -l nodes=2:ppn=12
+#PBS -l walltime=00:5:00
+#PBS -q batch
+#PBS -N testBugFixes
+#PBS -j oe
+
+cd /home/rawsonb/LE2
+
+echo bug1:
+mpiexec -np 2 --map-by ppr:1:node --hostfile $PBS_NODEFILE ./bug1.cx
+
+echo bug2:
+mpiexec -np 2 --map-by ppr:1:node --hostfile $PBS_NODEFILE ./bug2.cx
+
+echo bug3:
+mpiexec -np 2 --map-by ppr:1:node --hostfile $PBS_NODEFILE ./bug3.cx
